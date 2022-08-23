@@ -11,7 +11,7 @@
 
 ## Overview
 
-This is a simple Dapp that allows a user to mint and transfer usdc
+This is a simple defi protocol that allows a user to mint and transfer usdc
 
 ## Features
 
