@@ -25,7 +25,8 @@ This is a simple Dapp that allows a user to mint and transfer usdc
 
 ## Technologies
 
-- ether.js
+- Ethers.js
+- Infura
 
 ## Installations
 
